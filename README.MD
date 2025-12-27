@@ -13,8 +13,8 @@
 Need help? <a href="https://youtu.be/81Zn2ZBoUsw">Watch the Tutorial</a></i>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/its-starXboi/Chatbot">
-    <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/tiwarijiz8900-lgtm/Chatbot">
+    <img sec="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
   </a>
 </p>
 
