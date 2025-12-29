@@ -34,7 +34,7 @@ Need help? <a href="https://youtu.be/81Zn2ZBoUsw">Watch the Tutorial</a></i>
 
 ## 📊 ʀᴇᴘᴏ sᴛᴀᴛs
 
-<a href="https://github.com/Its-starXboi/Chatbot">
+<a href="https://github.com/tiwarijiz8900-lgtm/ChatBot">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Its-starXboi&repo=Chatbot&theme=chartreuse-dark">
 </a>
 
